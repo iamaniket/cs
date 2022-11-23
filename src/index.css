@@ -12,3 +12,5 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+@font-face { font-family: cs; src: url('Assets/cs_regular.ttf') } 
